@@ -23,3 +23,5 @@ Above 4G decoding<br>
 Hyper-Threading<br>
 EHCI/XHCI Hand-off<br>
 DVMT Pre-Allocated(iGPU Memory): 64MB<p>
+
+I also upload my BIOS. You just have to flash it (under your responsibility).
